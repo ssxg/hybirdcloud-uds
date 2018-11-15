@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hybirdcloud-uds-aggregate" />
+        <module name="hybirdcloud-uds-common" />
+        <module name="hybirdcloud-uds-config" />
+        <module name="hybirdcloud-uds-db" />
+        <module name="hybirdcloud-uds-facede" />
+        <module name="hybirdcloud-uds-monitor" />
+        <module name="hybirdcloud-uds-register" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hybirdcloud-uds-aggregate" target="1.8" />
+      <module name="hybirdcloud-uds-common" target="1.8" />
+      <module name="hybirdcloud-uds-config" target="1.8" />
+      <module name="hybirdcloud-uds-datasource" target="1.8" />
+      <module name="hybirdcloud-uds-db" target="1.8" />
+      <module name="hybirdcloud-uds-facede" target="1.8" />
+      <module name="hybirdcloud-uds-monitor" target="1.8" />
+      <module name="hybirdcloud-uds-register" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+server:
+  port: 8901
+eureka:
+  instance:
+#    ip-address: 10.112.29.233
+    prefer-ip-address: true
+feign:
+  hystrix:
+    enabled: true
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate/hybirdcloud-uds-aggregate.iml" filepath="$PROJECT_DIR$/hybirdcloud-uds-aggregate/hybirdcloud-uds-aggregate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hybirdcloud-uds-common/hybirdcloud-uds-common.iml" filepath="$PROJECT_DIR$/hybirdcloud-uds-common/hybirdcloud-uds-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hybirdcloud-uds-config/hybirdcloud-uds-config.iml" filepath="$PROJECT_DIR$/hybirdcloud-uds-config/hybirdcloud-uds-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hybirdcloud-uds-db/hybirdcloud-uds-db.iml" filepath="$PROJECT_DIR$/hybirdcloud-uds-db/hybirdcloud-uds-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hybirdcloud-uds-facede/hybirdcloud-uds-facede.iml" filepath="$PROJECT_DIR$/hybirdcloud-uds-facede/hybirdcloud-uds-facede.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hybirdcloud-uds-monitor/hybirdcloud-uds-monitor.iml" filepath="$PROJECT_DIR$/hybirdcloud-uds-monitor/hybirdcloud-uds-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hybirdcloud-uds-register/hybirdcloud-uds-register.iml" filepath="$PROJECT_DIR$/hybirdcloud-uds-register/hybirdcloud-uds-register.iml" />
+    </modules>
+  </component>
+</project>

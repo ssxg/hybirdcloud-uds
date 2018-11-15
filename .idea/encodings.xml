@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hybirdcloud-uds-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hybirdcloud-uds-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hybirdcloud-uds-datasource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hybirdcloud-uds-db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hybirdcloud-uds-facede" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hybirdcloud-uds-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hybirdcloud-uds-register" charset="UTF-8" />
+  </component>
+</project>

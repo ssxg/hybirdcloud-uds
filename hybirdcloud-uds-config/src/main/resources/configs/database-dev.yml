@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ecr_pcsd?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: ssxg613714
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/mtest

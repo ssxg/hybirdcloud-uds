@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="308b12cf-8326-4b27-a1e6-e2deb10a00c9" name="Default Changelist" comment="xiaosg:ready to remote">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/register/target/" />
+    <ignored path="$PROJECT_DIR$/hybirdcloud-uds-register/target/" />
+    <ignored path="$PROJECT_DIR$/hybirdcloud-uds-config/target/" />
+    <ignored path="$PROJECT_DIR$/hybirdcloud-uds-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/hybirdcloud-uds-common/target/" />
+    <ignored path="$PROJECT_DIR$/hybirdcloud-uds-db/target/" />
+    <ignored path="$PROJECT_DIR$/hybirdcloud-uds-datasource/target/" />
+    <ignored path="$PROJECT_DIR$/hybirdcloud-uds-facede/target/" />
+    <ignored path="$PROJECT_DIR$/hybirdcloud-uds-aggregate/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hybirdcloud_uds$HybirdcloudUdsFacedeApplication.ic" NAME="HybirdcloudUdsFacedeApplication Coverage Results" MODIFIED="1542254325252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lenovo.ecr.hybirdcloud.uds.facede.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hybirdcloud_uds$HybirdcloudUdsAggregateApplication.ic" NAME="HybirdcloudUdsAggregateApplication Coverage Results" MODIFIED="1542182319082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lenovo.ecr.hybirdcloud.uds.aggregate.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="205" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="486045410">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="41" />
+          <entry key="java" value="312" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="21" />
+          <entry key="yml" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="41" />
+          <entry key="JAVA" value="312" />
+          <entry key="Properties" value="3" />
+          <entry key="SnakeYAML" value="38" />
+          <entry key="XML" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="75" />
+          <entry key="java" value="7389" />
+          <entry key="txt" value="46" />
+          <entry key="xml" value="109" />
+          <entry key="yml" value="249" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7389" />
+          <entry key="PLAIN_TEXT" value="121" />
+          <entry key="SnakeYAML" value="249" />
+          <entry key="XML" value="109" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/controller/ServerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/annotation/DisableAutoThrowHandling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/aspect/AutoThrowHandlingSpect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+                <element signature="e#935#936#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="75" column="21" selection-start-line="71" selection-start-column="8" selection-end-line="75" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/controller/GlobalExceptionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-config/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-config/src/main/resources/configs/hybirdcloud-uds-aggregate-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-config/src/main/resources/configs/hybirdcloud-uds-facede-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-config/src/main/resources/configs/database-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/opensource/kafka/kafka" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/Server.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/repository/ServerARepository.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/model/view_model/CloudPlatFormAggregation.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/model/view_model/ServerAggregation.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/model/view_model/ServiceLineCloudPlatFormAggregation.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/model/view_model/ServiceLineAggregation.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/model/view_model/ServerInitialAggregation.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/pom.xml" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/service/ServerService.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/service/IServerService.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/service/ServerAggregationService.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/DailyServerAggregation.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/model/dto/ServerAggregationDTO.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/HybirdcloudUdsAggregateApplication.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/raw/ServiceLine.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/model/dto/RemoteServersDto.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/model/ServerAggregation.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/repository/raw/ServerRepository.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/repository/raw/ServiceLineRepository.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/repository/raw/CloudPlatformRepository.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/controller/ToolController.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/service/IServerAggregationService.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/service/MongoServerAggregationService.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/repository/CommonMongoRepository.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-common/pom.xml" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/pom.xml" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/model/view_model/DailyServerAggregationVM.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/aggragetion/DailyCloudPlatformServerAggregation.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/aggragetion/DailyCPinSLAgrregation.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/aggragetion/DailyServiceLineServerAggregation.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/raw/CloudPlatform.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/enums/AggregationDimentionEnum.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/raw/Server.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/controller/ExampleController.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/aggragetion/DailyServerAggregation.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/model/VMInfo.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/model/viewModel/DailyServerAggregationVM.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/service/ServerService.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/service/IServerService.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/controller/ServerController.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/task/ClusterBaseTask.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-config/src/main/resources/configs/hybirdcloud-uds-aggregate-dev.yml" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-config/src/main/resources/configs/hybirdcloud-uds-facede-dev.yml" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-common/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/controller/ServerController.java" />
+        <option value="$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/repository/aggregation/DailyServerAggregationRepository.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Java/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\Program Files\Java\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-aggregate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-aggregate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-config" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-config" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-db" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-db" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-facede" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-facede" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-monitor" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-monitor" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-register" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hybirdcloud-uds-register" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hybirdcloud-uds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hybirdcloud-uds-aggregate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hybirdcloud-uds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hybirdcloud-uds-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hybirdcloud-uds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hybirdcloud-uds-facede" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hybirdcloud-uds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hybirdcloud-uds-facede" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hybirdcloud-uds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hybirdcloud-uds-facede" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hybirdcloud-uds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hybirdcloud-uds-facede" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542269466957" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lenovo.ecr.hybirdcloud.uds.common" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lenovo.ecr.hybirdcloud.uds.facede.model.dto" />
+      <recent name="com.lenovo.ecr.hybirdcloud.uds.facede.model" />
+      <recent name="com.lenovo.ecr.hybirdcloud.uds.common.config" />
+      <recent name="com.lenovo.ecr.hybirdcloud.uds.db.mysql.repository" />
+      <recent name="com.lenovo.ecr.hybirdcloud.uds.db.mysql.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\ecr\hybirdcloud\uds\hybirdcloud-uds-aggregate\src\main\java\com\lenovo\ecr\hybirdcloud\uds\aggregate\service" />
+      <recent name="D:\work\ecr\hybirdcloud\uds\hybirdcloud-uds-config\src\main\resources\configs" />
+      <recent name="D:\work\ecr\hybirdcloud\uds\hybirdcloud-uds-common\src\main\resources" />
+      <recent name="D:\work\ecr\hybirdcloud\uds\hybirdcloud-uds-config\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HybirdcloudUdsFacedeApplication">
+    <configuration name="HybirdcloudUdsAggregateApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lenovo.ecr.hybirdcloud.uds.aggregate.HybirdcloudUdsAggregateApplication" />
+      <module name="hybirdcloud-uds-aggregate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lenovo.ecr.hybirdcloud.uds.aggregate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HybirdcloudUdsConfigApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lenovo.ecr.hybirdcloud.uds.config.HybirdcloudUdsConfigApplication" />
+      <module name="hybirdcloud-uds-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lenovo.ecr.hybirdcloud.uds.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HybirdcloudUdsDbApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lenovo.ecr.hybirdcloud.uds.db.HybirdcloudUdsDbApplication" />
+      <module name="hybirdcloud-uds-db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lenovo.ecr.hybirdcloud.uds.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HybirdcloudUdsFacedeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lenovo.ecr.hybirdcloud.uds.facede.HybirdcloudUdsFacedeApplication" />
+      <module name="hybirdcloud-uds-facede" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lenovo.ecr.hybirdcloud.uds.facede.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HybirdcloudUdsRegisterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lenovo.ecr.hybirdcloud.uds.register.HybirdcloudUdsRegisterApplication" />
+      <module name="hybirdcloud-uds-register" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lenovo.ecr.hybirdcloud.uds.register.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HybirdcloudUdsConfigApplication" />
+      <item itemvalue="Application.HybirdcloudUdsFacedeApplication" />
+      <item itemvalue="Application.HybirdcloudUdsRegisterApplication" />
+      <item itemvalue="Application.HybirdcloudUdsAggregateApplication" />
+      <item itemvalue="Application.HybirdcloudUdsDbApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HybirdcloudUdsFacedeApplication" />
+        <item itemvalue="Application.HybirdcloudUdsAggregateApplication" />
+        <item itemvalue="Application.HybirdcloudUdsDbApplication" />
+        <item itemvalue="Application.HybirdcloudUdsConfigApplication" />
+        <item itemvalue="Application.HybirdcloudUdsRegisterApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="308b12cf-8326-4b27-a1e6-e2deb10a00c9" name="Default Changelist" comment="" />
+      <created>1541737732717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541737732717</updated>
+    </task>
+    <task id="LOCAL-00001" summary="xiaosg:initial">
+      <created>1542072373149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542072373149</updated>
+    </task>
+    <task id="LOCAL-00002" summary="xiaosg:one interface ok">
+      <created>1542191252751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542191252752</updated>
+    </task>
+    <task id="LOCAL-00003" summary="xiaosg:ready to remote">
+      <created>1542264851937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542264851937</updated>
+    </task>
+    <task id="LOCAL-00004" summary="xiaosg:ready to remote">
+      <created>1542264860810</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542264860810</updated>
+    </task>
+    <task id="LOCAL-00005" summary="xiaosg:ready to remote">
+      <created>1542264872144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542264872144</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.50163937" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40347072" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50159913" side_tool="true" weight="0.33188722" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49188313" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.49025974" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5081169" side_tool="true" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <MESSAGE value="xiaosg:initial" />
+    <MESSAGE value="xiaosg:one interface ok" />
+    <MESSAGE value="xiaosg:ready to remote" />
+    <option name="LAST_COMMIT_MESSAGE" value="xiaosg:ready to remote" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/model/VMInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/aggragetion/DailyCPinSLAgrregation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.2.RELEASE/spring-beans-5.1.2.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="343" column="94" selection-start-line="343" selection-start-column="78" selection-end-line="343" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="210" column="9" selection-start-line="210" selection-start-column="8" selection-end-line="210" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/raw/CloudPlatform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/service/IServerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="235" column="42" selection-start-line="235" selection-start-column="22" selection-end-line="235" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/service/IServerAggregationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/task/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/task/DataSliceInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/task/ClusterTaskExcutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/task/ClusterBaseTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/controller/ServerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/util/PageModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/HybirdcloudUdsDbApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/model/ServerAggregation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/config/AutoThrowHandlingConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/util/EmptyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1132#1133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/HybirdcloudUdsCommonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/raw/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/raw/ServiceLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/aggragetion/DailyServerAggregation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/aggragetion/DailyServiceLineServerAggregation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/entity/aggragetion/DailyCloudPlatformServerAggregation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/repository/aggregation/DailyServerAggregationRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/repository/raw/CloudPlatformRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/repository/raw/ServerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mongodb/repository/raw/ServiceLineRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mysql/entity/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-db/src/main/java/com/lenovo/ecr/hybirdcloud/uds/db/mysql/repository/BrandRespository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/HybirdcloudUdsAggregateApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/service/MongoServerAggregationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="201" column="51" selection-start-line="201" selection-start-column="36" selection-end-line="201" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/model/dto/RemoteServersDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/model/viewModel/DailyServerAggregationVM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/service/ServerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/enums/AggregationDimentionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/controller/ExampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="65" column="29" lean-forward="true" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-config/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-config/src/main/resources/configs/hybirdcloud-uds-aggregate-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-config/src/main/resources/configs/hybirdcloud-uds-facede-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-config/src/main/resources/configs/database-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate/src/main/java/com/lenovo/ecr/hybirdcloud/uds/aggregate/controller/ServerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/annotation/DisableAutoThrowHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-common/src/main/java/com/lenovo/ecr/hybirdcloud/uds/common/aspect/AutoThrowHandlingSpect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-aggregate/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="75" column="21" selection-start-line="71" selection-start-column="8" selection-end-line="75" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybirdcloud-uds-facede/src/main/java/com/lenovo/ecr/hybirdcloud/uds/facede/controller/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hybirdcloud-uds-facede</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

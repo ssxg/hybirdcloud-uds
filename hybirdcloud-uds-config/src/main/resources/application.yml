@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: hybirdcloud-uds-config
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+#        git:
+#          uri: https://github.com/ssxg/hybirdcloud-uds.git
+#          search-paths: /configs/
+#      label: master
+#      username: cookie_hsiao@foxmail.com
+#      password: ssxg613714
+        native:
+          searchLocations: classpath:/configs/
+server:
+  port: 8802
+eureka:
+  instance:
+#    ip-address: 10.112.29.233
+    prefer-ip-address: true
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8801/eureka/

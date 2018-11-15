@@ -1,0 +1,14 @@
+spring:
+  cloud:
+    config:
+      name: hybirdcloud-uds-aggregate,database
+      profile: dev
+      discovery:
+        enabled: true
+        service-id: hybirdcloud-uds-config
+  application:
+    name: hybirdcloud-uds-aggregate
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8801/eureka/

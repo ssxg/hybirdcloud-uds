@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: hybirdcloud-uds-monitor
+server:
+  port: 8803
+eureka:
+  instance:
+#    ip-address: 10.112.29.233
+    prefer-ip-address: true
+turbine:
+  aggregator:
+    clusterConfig: default
+  appConfig: hybirdcloud-uds-facede
+  clusterNameExpression: new String('default')
